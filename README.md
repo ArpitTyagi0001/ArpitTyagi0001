@@ -12,5 +12,6 @@ Java | Spring Boot | Spring Security | JWT | JPA | PostgreSQL.
 - 👔 [Employee Management System](https://github.com/ArpitTyagi0001/Employee-Mangement)
 
 ## 📫 Connect With Me
+[Email : arpittyagi389@gmail.com]
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)](https://linkedin.com/in/arpit-tyagi0001)
 [![LeetCode](https://img.shields.io/badge/LeetCode-orange)](https://leetcode.com/u/ArpitTyagi123)
